@@ -1,0 +1,8 @@
+.post_card_outer_container{
+    display: flex;
+    border: 1px solid black;
+    flex-direction: column;
+    row-gap: 0.5rem;
+    padding: 2rem;
+    margin: 2px;
+}
